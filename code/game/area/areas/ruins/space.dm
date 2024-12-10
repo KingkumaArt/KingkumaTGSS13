@@ -633,6 +633,12 @@
 /// The Atmos Asteroid Ruin, has a subtype for rapid identification since this has some unique atmospherics properties and we can easily detect it if something goes wonky.
 /area/ruin/space/has_grav/atmosasteroid
 
+
+//ABANDONED SURVEY SHIP
+
+/area/ruin/space/has_grav/surveyship
+	name = "\improper Derelict Survey Ship"
+
 // Ruin of Waystation
 /area/ruin/space/has_grav/waystation
 	name = "Waystation Maintenance"

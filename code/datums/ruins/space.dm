@@ -466,6 +466,12 @@
 	name = "Space-Ruin Transit Booth"
 	description = "Make sure to check out the duty-free store!"
 
+/datum/map_template/ruin/space/surveyship //Penrose 512 from SIGNALIS.
+	id = "Surveyship"
+	suffix = "surveyship.dmm"
+	name = "Derelict Survey Ship"
+	description = "The truth is, there never was going to be a return trip."
+
 /datum/map_template/ruin/space/space_phonebooth
 	id = "Space_phonebooth"
 	suffix = "phonebooth.dmm"

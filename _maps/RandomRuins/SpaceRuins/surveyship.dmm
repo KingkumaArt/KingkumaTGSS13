@@ -1,0 +1,134 @@
+"aE" = (/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/bridge)
+"bK" = (/turf/closed/wall/mineral/plastitanium,/area/shuttle/abandoned/bridge)
+"bW" = (/obj/structure/sign/poster/contraband/mothic_rations,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned)
+"dg" = (/obj/item/reagent_containers/pill/potassiodide,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"dI" = (/obj/machinery/light/cold/dim/directional/east,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"dK" = (/obj/effect/decal/cleanable/blood/drip,/obj/machinery/door/airlock/grunge,/obj/machinery/door/airlock/freezer,/obj/machinery/door/airlock/hatch,/turf/open/floor/mineral/plastitanium,/area/shuttle/abandoned)
+"dU" = (/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"ef" = (/obj/machinery/computer/exodrone_control_console,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"ej" = (/obj/structure/lattice/catwalk,/obj/machinery/atmospherics/pipe/bridge_pipe/cyan/visible/layer5,/obj/machinery/atmospherics/pipe/bridge_pipe/orange,/obj/machinery/atmospherics/pipe/bridge_pipe/scrubbers/hidden/layer1,/turf/open/floor/iron/dark,/area/shuttle/abandoned/engine)
+"eS" = (/obj/item/book/manual/ripley_build_and_repair{pixel_x = 0; pixel_y = 3},/obj/machinery/light/warm/directional/south,/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"ft" = (/obj/machinery/power/shuttle_engine/huge{dir = 1},/turf/open/floor/plating,/area/shuttle/abandoned/engine)
+"fY" = (/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"jL" = (/obj/structure/tank_dispenser,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"jT" = (/obj/machinery/light/cold/directional/west,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"jV" = (/obj/machinery/door/airlock/grunge,/turf/open/floor/mineral/plastitanium,/area/shuttle/abandoned/bridge)
+"kb" = (/turf/closed/wall/mineral/plastitanium,/area/shuttle/abandoned/cargo)
+"ll" = (/obj/structure/grille/broken,/obj/effect/mapping_helpers/broken_floor,/turf/open/floor/iron/dark/textured{pixel_x = 0; pixel_y = 0},/area/shuttle/abandoned/medbay)
+"lJ" = (/obj/effect/spawner/surgery_tray/full/deployed,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"nj" = (/obj/structure/closet/crate,/turf/open/floor/plating,/area/shuttle/abandoned/cargo)
+"nO" = (/obj/effect/decal/cleanable/greenglow/radioactive,/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"oM" = (/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"oQ" = (/obj/item/wallframe/telescreen,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned)
+"pg" = (/obj/machinery/door/airlock/survival_pod{dir = 4},/turf/open/floor/plating,/area/shuttle/abandoned)
+"pB" = (/obj/item/book/manual/wiki/robotics_cyborgs{pixel_x = 21; pixel_y = 57},/obj/structure/table/reinforced,/obj/item/food/rationpack{pixel_x = 7; pixel_y = -5},/obj/item/food/rationpack{pixel_x = 11; pixel_y = 9},/obj/item/food/rationpack{pixel_x = -7; pixel_y = 6},/obj/machinery/light/warm/directional/south,/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"pR" = (/obj/machinery/light/red/directional/north,/obj/machinery/atmospherics/components/tank/air,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"qK" = (/turf/open/floor/mineral/titanium/tiled/yellow,/area/shuttle/abandoned)
+"qM" = (/obj/item/wallframe/telescreen/entertainment,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned)
+"qO" = (/obj/item/reagent_containers/cup/beaker/cryoxadone,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"qY" = (/turf/open/floor/plating,/area/shuttle/abandoned/cargo)
+"rj" = (/obj/structure/sign/poster/official/do_not_question,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/bridge)
+"rx" = (/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/bridge)
+"sE" = (/turf/open/floor/plating,/area/shuttle/abandoned/bridge)
+"ud" = (/obj/item/instrument/piano_synth/headphones,/obj/machinery/light/warm/directional/north,/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"uq" = (/obj/machinery/power/smes/ship,/obj/structure/grille/broken,/obj/machinery/light/small/red/directional/north,/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"ux" = (/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"vl" = (/obj/machinery/cryo_cell,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"vo" = (/obj/structure/lattice/catwalk,/obj/machinery/atmospherics/pipe/bridge_pipe/cyan/visible/layer5,/obj/machinery/atmospherics/pipe/bridge_pipe/orange,/obj/machinery/atmospherics/pipe/bridge_pipe/scrubbers/hidden/layer1,/turf/open/floor/circuit/red/anim,/area/shuttle/abandoned/engine)
+"vI" = (/obj/structure/broken_flooring/plating/directional,/obj/machinery/light/cold/dim/directional/east,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"wQ" = (/obj/machinery/light/cold/directional/east,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"xf" = (/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood/drip,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"xn" = (/obj/structure/closet/crate/large,/turf/open/floor/plating,/area/shuttle/abandoned/cargo)
+"xE" = (/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/crew)
+"xP" = (/obj/effect/spawner/random/trash/food_packaging,/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"xT" = (/turf/closed/wall/mineral/plastitanium,/area/shuttle/abandoned)
+"yq" = (/obj/machinery/door/airlock/grunge,/turf/open/floor/mineral/plastitanium,/area/shuttle/abandoned)
+"yT" = (/obj/structure/sign/poster/official/anniversary_vintage_reprint,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/bridge)
+"zi" = (/obj/effect/mapping_helpers/broken_floor,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"Ai" = (/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"AA" = (/obj/effect/decal/cleanable/blood/drip,/obj/machinery/light/cold/directional/west,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"BR" = (/obj/effect/decal/cleanable/blood/drip,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"BU" = (/obj/structure/broken_flooring/corner/directional/south,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"Cj" = (/obj/effect/decal/cleanable/blood/drip,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"Cm" = (/obj/machinery/suit_storage_unit/void_old,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"Dy" = (/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"DT" = (/obj/machinery/power/shuttle_engine/heater,/turf/open/floor/plating,/area/shuttle/abandoned/engine)
+"Eq" = (/turf/open/space/basic,/area/space)
+"EW" = (/obj/item/blood_filter{pixel_x = -5; pixel_y = 17},/obj/item/reagent_containers/blood{pixel_x = -4; pixel_y = 4},/obj/item/reagent_containers/blood{pixel_x = -15; pixel_y = 3},/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"Fg" = (/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"FB" = (/obj/structure/table/optable,/obj/effect/decal/cleanable/blood/splatter/over_window,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"GC" = (/obj/effect/decal/cleanable/blood/drip{pixel_x = 13; pixel_y = 0},/obj/machinery/light/cold/directional/west,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"GJ" = (/obj/item/book/manual/wiki/engineering_guide{pixel_x = 10; pixel_y = 12},/obj/effect/spawner/random/trash/food_packaging,/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"Hq" = (/obj/structure/frame/computer,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"HC" = (/turf/open/space/basic,/area)
+"IG" = (/turf/closed/wall/mineral/plastitanium,/area/shuttle/abandoned/engine)
+"IP" = (/obj/item/book/manual/wiki/detective{pixel_x = 1; pixel_y = -46},/obj/machinery/light/warm/directional/north,/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"Jf" = (/obj/machinery/atmospherics/pipe/bridge_pipe/cyan/visible/layer5,/obj/machinery/atmospherics/pipe/bridge_pipe/orange,/obj/machinery/atmospherics/pipe/bridge_pipe/scrubbers/hidden/layer1,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"JE" = (/turf/closed/wall/mineral/plastitanium,/area/shuttle/abandoned/medbay)
+"JW" = (/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned)
+"Kn" = (/obj/structure/bed/double/pod,/turf/open/floor/carpet/green,/area/shuttle/abandoned/crew)
+"KB" = (/obj/structure/steam_vent/fast,/obj/structure/grille/broken,/obj/machinery/light/small/red/directional/north,/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"Lw" = (/obj/effect/decal/cleanable/robot_debris/up,/obj/structure/lattice/catwalk,/obj/machinery/atmospherics/pipe/bridge_pipe/cyan/visible/layer5,/obj/machinery/atmospherics/pipe/bridge_pipe/orange,/obj/machinery/atmospherics/pipe/bridge_pipe/scrubbers/hidden/layer1,/turf/open/floor/circuit/red/anim,/area/shuttle/abandoned/engine)
+"LG" = (/turf/closed/wall/mineral/plastitanium,/area/shuttle/abandoned/crew)
+"Nx" = (/obj/structure/frame/computer{dir = 1},/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/bridge)
+"OX" = (/obj/machinery/door/airlock/survival_pod{dir = 4},/obj/machinery/door/airlock/grunge,/turf/open/floor/mineral/plastitanium,/area/shuttle/abandoned)
+"Py" = (/obj/machinery/atmospherics/pipe/bridge_pipe/cyan/visible/layer5,/obj/machinery/atmospherics/pipe/bridge_pipe/orange,/obj/machinery/atmospherics/pipe/bridge_pipe/scrubbers/hidden/layer1,/obj/machinery/light/cold/dim/directional/north,/obj/machinery/atmospherics/components/tank/air,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"PF" = (/obj/structure/broken_flooring/plating/directional/north,/obj/machinery/light/cold/directional/west,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned)
+"PI" = (/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/medbay)
+"Qg" = (/obj/effect/decal/cleanable/greenglow/radioactive,/obj/effect/decal/cleanable/greenglow/radioactive,/obj/structure/grille/broken,/obj/machinery/power/port_gen/pacman,/obj/machinery/light/small/red/directional/north,/turf/open/floor/plating/rust,/area/shuttle/abandoned/engine)
+"QT" = (/obj/item/reagent_containers/pill/potassiodide{pixel_x = -6; pixel_y = -3},/obj/item/reagent_containers/pill/potassiodide{pixel_x = 0; pixel_y = -7},/obj/item/reagent_containers/pill/potassiodide{pixel_x = 4; pixel_y = -2},/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"Rq" = (/obj/effect/decal/cleanable/xenoblood/xsplatter,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"Rv" = (/obj/effect/decal/cleanable/grand_remains,/obj/structure/fluff/empty_sleeper,/obj/effect/decal/remains/human/smokey/maintenance{desc = "They look like human remains. They have a strange, sickly aura about them... You should tread lightly when walking near this."; name = "woman's remains"},/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"RW" = (/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/engine)
+"Sz" = (/turf/open/space/basic,/area/shuttle/abandoned/engine)
+"TA" = (/obj/item/reagent_containers/pill/patch/style/toxinplus{pixel_x = 9; pixel_y = 7},/obj/machinery/iv_drip,/obj/item/reagent_containers/blood,/obj/machinery/light/cold,/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"TW" = (/obj/structure/sign/poster/official/enlist,/obj/structure/sign/poster/contraband/c20r,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/crew)
+"UM" = (/obj/item/wallframe/status_display,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned)
+"Wj" = (/obj/structure/sign/poster/contraband/free_drone,/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/shuttle/abandoned/crew)
+"WW" = (/obj/item/storage/medkit/toxin{pixel_x = 8; pixel_y = 7},/turf/open/floor/iron/dark/textured,/area/shuttle/abandoned/medbay)
+"XF" = (/obj/structure/lattice/catwalk,/obj/machinery/atmospherics/pipe/bridge_pipe/cyan/visible/layer5,/obj/machinery/atmospherics/pipe/bridge_pipe/orange,/obj/machinery/atmospherics/pipe/bridge_pipe/scrubbers/hidden/layer1,/turf/open/floor/iron/dark/textured_edge,/area/shuttle/abandoned/engine)
+"YT" = (/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood/drip,/obj/machinery/door/airlock/grunge,/turf/open/floor/mineral/plastitanium,/area/shuttle/abandoned)
+"Zu" = (/turf/open/floor/plating,/area/shuttle/abandoned/engine)
+
+(1,1,1) = {"
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqHCEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqRWRWRWEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqRWPypRPyRWEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqSzSzSzRWvlXFoMejvlRWSzSzSzEqEqEqEqEq
+EqEqEqEqEqftZuZuRWoMLwRvvoqORWftZuZuEqEqEqEqEq
+EqEqEqEqEqDTDTDTRWoMJfCjJfBURWDTDTDTEqEqEqEqEq
+EqEqEqEqEqIGRWRWRWJWJWdKJWJWqMoQUMxTEqEqEqEqEq
+EqEqEqEqEqIGKBuqQgJWAAuxvIJWHqefHqxTEqEqEqEqEq
+EqEqEqEqEqIGAiFgdUyqqKBRqKyquxuxuxxTEqEqEqEqEq
+EqEqEqEqEqIGAinODyJWjTuxdIJWuxuxuxxTEqEqEqEqEq
+EqEqEqEqEqJEPIllPIJWJWBRJWJWWjxETWLGEqEqEqEqEq
+EqEqEqEqEqJERqdglJJWGCuxuxJWudKnIPLGEqEqEqEqEq
+EqEqEqEqEqJEQTFBxfYTqKuxqKyqfYxPfYLGEqEqEqEqEq
+EqEqEqEqEqJEWWTAEWJWPFziuxJWpBGJeSLGEqEqEqEqEq
+EqEqEqEqEqEqxTJWJWJWbWuxJWJWxExExELGEqEqEqEqEq
+EqEqEqEqEqEqEqxTjLJWjTuxwQJWnjnjkbEqEqEqEqEqEq
+EqEqEqEqEqEqEqpguxOXqKuxqKyqqYxnkbEqEqEqEqEqEq
+EqEqEqEqEqEqEqxTCmJWjTuxwQJWnjkbEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqbKrxrjjVyTrxbKEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqbKaEaEaEbKEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqbKNxNxNxbKEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqsEsEsEEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+EqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEqEq
+"}
