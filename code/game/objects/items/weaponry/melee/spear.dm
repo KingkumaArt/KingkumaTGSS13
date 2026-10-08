@@ -455,7 +455,7 @@
 	inhand_icon_state = "speardragonraw0"
 	icon_prefix = "speardragonraw"
 	base_icon_state = "speardragonraw"
-	worn_icon_state = "speardragonraw"
+	worn_icon_state = "speardragonraw0"
 	material_flags = MATERIAL_EFFECTS
 	demolition_mod = 0.5
 	wound_bonus = 0
