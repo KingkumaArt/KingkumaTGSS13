@@ -96,6 +96,16 @@
 	pupils_name = "slit pupils"
 	penlight_message = "have vertically slit pupils and tinted whites"
 
+/obj/item/organ/eyes/ethereal
+	name = "ethereal eyes"
+	desc = "A pair of glowing pearl-like orbs. How Ethereals manage to see through these things eludes you."
+	icon_state = "ethereal_eyes"
+	eye_icon_state = "eyes_glow"
+	blink_animation = FALSE
+	eye_color_left = "#eeeeee"
+	eye_color_right = "#eeeeee"
+	penlight_message = "glow brighter as the light reflects off them"
+
 /obj/item/organ/eyes/pod
 	name = "pod eyes"
 	desc = "Strangest salad you've ever seen."

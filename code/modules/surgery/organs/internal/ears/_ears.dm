@@ -142,6 +142,11 @@
 /obj/item/organ/ears/invincible
 	damage_multiplier = 0
 
+
+/obj/item/organ/ears/ethereal
+	name = "ethereal ears"
+	icon_state = "ethereal_ears"
+
 /obj/item/organ/ears/cat
 	name = "cat ears"
 	icon = 'icons/obj/clothing/head/costume.dmi'
