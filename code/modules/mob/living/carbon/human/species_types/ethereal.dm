@@ -8,7 +8,7 @@
 	mutanttongue = /obj/item/organ/tongue/ethereal
 	mutantheart = /obj/item/organ/heart/ethereal
 	mutanteyes = /obj/item/organ/eyes/ethereal
-	mutantbrain = /obj/item/organ/brain/ethereal
+	//mutantbrain = /obj/item/organ/brain/ethereal
 	mutantears = /obj/item/organ/ears/ethereal
 	exotic_bloodtype = /datum/blood_type/ethereal
 	siemens_coeff = 0.5 //They thrive on energy
